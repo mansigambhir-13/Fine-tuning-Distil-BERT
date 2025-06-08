@@ -104,6 +104,10 @@ MIT License - feel free to use, modify, and share.
 
 ---
 
+## Sample Usage 
+![image](https://github.com/user-attachments/assets/4f61bf10-2ee2-4184-bc34-f3aa5a090c3d)
+
+
 ## 🙌 Acknowledgements
 
 * Hugging Face Transformers & PEFT libraries
